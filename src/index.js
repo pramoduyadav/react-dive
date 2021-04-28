@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import App from "./App";
+import App from "./playground/redux-101.js";
+//import App from "./App";
 
 class ControlApp extends React.Component {
   handleAlert() {
