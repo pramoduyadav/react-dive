@@ -18,4 +18,4 @@ class ControlApp extends React.Component {
   }
 }
 
-ReactDOM.render(<ControlApp />, document.getElementById("root"));
+ReactDOM.render("", document.getElementById("root"));
